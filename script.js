@@ -7,6 +7,7 @@ const iconClose = document.querySelector('.icon-close');
 registerlink.addEventListener('click',()=> {
     wrapper.classList.add('active');
 });
+// git push
 
 loginlink.addEventListener('click',()=> {
     wrapper.classList.remove('active');
